@@ -1,0 +1,13 @@
+{
+	"project": {
+		"name": "my-vue-app-convex"
+	},
+	"functions": {
+		"codegen": {
+			"enabled": true
+		}
+	},
+	"auth": {
+		"enabled": true
+	}
+}
